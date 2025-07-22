@@ -90,7 +90,7 @@
           "id": "ydkj2015",
           "name": "You Don't Know Jack: 2015",
           "internal_name": "YDKJ2015",
-          "background": "game_backgrounds/YDKJ2015.webp",
+          "background": "game_backgrounds/YDKJ2015.png",
           "path": "games/YDKJ2015",
           "game_info": {
             "players": {
@@ -140,7 +140,7 @@
           "id": "fibbagexl",
           "name": "Fibbage XL",
           "internal_name": "FibbageXL",
-          "background": "game_backgrounds/FibbageXL.webp",
+          "background": "game_backgrounds/FibbageXL.png",
           "path": "games/FibbageXL",
           "game_info": {
             "players": {
@@ -189,7 +189,7 @@
           "id": "drawful",
           "name": "Drawful",
           "internal_name": "Drawful",
-          "background": "game_backgrounds/Drawful.webp",
+          "background": "game_backgrounds/Drawful.png",
           "path": "games/Drawful",
           "game_info": {
             "players": {
@@ -236,7 +236,7 @@
           "id": "wordspud",
           "name": "Word Spud",
           "internal_name": "WordSpud",
-          "background": "game_backgrounds/WordSpud.webp",
+          "background": "game_backgrounds/WordSpud.png",
           "path": "games/WordSpud",
           "game_info": {
             "players": {
@@ -283,7 +283,7 @@
           "id": "lieswatter",
           "name": "Lie Swatter",
           "internal_name": "LieSwatterParty",
-          "background": "game_backgrounds/LieSwatter.webp",
+          "background": "game_backgrounds/LieSwatter.png",
           "path": "games/LieSwatter",
           "game_info": {
             "players": {
@@ -370,7 +370,7 @@
           "id": "bombcorp",
           "name": "Bomb Corp",
           "internal_name": "BombInterns",
-          "background": "game_backgrounds/BombCorp.webp",
+          "background": "game_backgrounds/BombCorp.png",
           "path": "games/BombInterns",
           "game_info": {
             "players": {
@@ -420,7 +420,7 @@
           "id": "quiplashxl",
           "name": "Сміхрясь XL",
           "internal_name": "QuiplashXL",
-          "background": "game_backgrounds/QuiplashXL.webp",
+          "background": "game_backgrounds/Quiplash.png",
           "path": "games/QuiplashXL",
           "game_info": {
             "players": {
@@ -470,7 +470,7 @@
           "id": "fibbage2",
           "name": "Fibbage 2",
           "internal_name": "Fibbage2",
-          "background": "game_backgrounds/Fibbage2.webp",
+          "background": "game_backgrounds/Fibbage2.png",
           "path": "games/Fibbage2",
           "game_info": {
             "players": {
@@ -521,7 +521,7 @@
           "id": "earwax",
           "name": "Earwax",
           "internal_name": "Earwax",
-          "background": "game_backgrounds/Earwax.webp",
+          "background": "game_backgrounds/Earwax.png",
           "path": "games/Earwax",
           "game_info": {
             "players": {
@@ -569,7 +569,7 @@
           "id": "bidiots",
           "name": "Bidiots",
           "internal_name": "Auction",
-          "background": "game_backgrounds/Bidiots.webp",
+          "background": "game_backgrounds/Bidiots.png",
           "path": "games/Bidiots",
           "game_info": {
             "players": {
@@ -750,7 +750,7 @@
           "id": "fakinit",
           "name": "Надурисвіт",
           "internal_name": "FakinIt",
-          "background": "game_backgrounds/FakinIt.webp",
+          "background": "game_backgrounds/FakinIt.png",
           "path": "games/FakinIt",
           "game_info": {
             "players": {
@@ -802,7 +802,7 @@
           "id": "quiplash2",
           "name": "Сміхрясь 2",
           "internal_name": "Quiplash2",
-          "background": "game_backgrounds/Quiplash2.webp",
+          "background": "game_backgrounds/Quiplash2.png",
           "path": "games/Quiplash2",
           "game_info": {
             "players": {
@@ -852,7 +852,7 @@
           "id": "triviamurderparty",
           "name": "Смертельні вечорниці",
           "internal_name": "triviadeath",
-          "background": "game_backgrounds/TriviaMurderParty.webp",
+          "background": "game_backgrounds/TriviaMurderParty.png",
           "path": "games/TriviaMurderParty",
           "game_info": {
             "players": {
@@ -902,7 +902,7 @@
           "id": "teeko",
           "name": "Футбол К.О.",
           "internal_name": "AwShirt",
-          "background": "game_backgrounds/TeeKO.webp",
+          "background": "game_backgrounds/TeeKO.png",
           "path": "games/TeeKO",
           "game_info": {
             "players": {
@@ -953,7 +953,7 @@
           "id": "guesspionage",
           "name": "Шпигадаш",
           "internal_name": "PollPosition",
-          "background": "game_backgrounds/Guesspionage.webp",
+          "background": "game_backgrounds/Guesspionage.png",
           "path": "games/Guesspionage",
           "game_info": {
             "players": {
@@ -1185,7 +1185,7 @@
           "id": "monsterseekingmonster",
           "name": "Монстр шукає монстра",
           "internal_name": "MonsterMingle",
-          "background": "game_backgrounds/MonsterSeekingMonster.webp",
+          "background": "game_backgrounds/MonsterSeekingMonster.png",
           "path": "games/MonsterMingle",
           "game_info": {
             "players": {
@@ -1285,7 +1285,7 @@
           "id": "fibbage3",
           "name": "Брехалище 3",
           "internal_name": "Fibbage3",
-          "background": "game_backgrounds/Fibbage3.webp",
+          "background": "game_backgrounds/Fibbage3.png",
           "path": "games/Fibbage3",
           "game_info": {
             "players": {
@@ -1457,7 +1457,7 @@
           "id": "ydkj_fullstream",
           "name": "YDKJ: Full Stream",
           "internal_name": "YDKJ2018",
-          "background": "game_backgrounds/YDKJFullStream.webp",
+          "background": "game_backgrounds/YDKJFullStream.png",
           "path": "games/YDKJ2018",
           "game_info": {
             "players": {
@@ -1507,7 +1507,7 @@
           "id": "mad_verse_city",
           "name": "Mad Verse City",
           "internal_name": "RapBattle",
-          "background": "game_backgrounds/MadVerseCity.webp",
+          "background": "game_backgrounds/MadVerseCity.png",
           "path": "games/RapBattle",
           "game_info": {
             "players": {
@@ -1557,7 +1557,7 @@
           "id": "zeeple_dome",
           "name": "Zeeple Dome",
           "internal_name": "SlingShoot",
-          "background": "game_backgrounds/ZeepleDome.webp",
+          "background": "game_backgrounds/ZeepleDome.png",
           "path": "games/ZeepleDome",
           "game_info": {
             "players": {
@@ -1657,7 +1657,7 @@
           "id": "patentlystupid",
           "name": "Patently Stupid",
           "internal_name": "PatentlyStupid",
-          "background": "game_backgrounds/PatentlyStupid.webp",
+          "background": "game_backgrounds/PatentlyStupid.png",
           "path": "games/PatentlyStupid",
           "game_info": {
             "players": {
@@ -1780,7 +1780,7 @@
           "id": "trivia_murder_party_2",
           "name": "Смертельні вечорниці 2",
           "internal_name": "TriviaDeath2",
-          "background": "game_backgrounds/TriviaMurderParty2.webp",
+          "background": "game_backgrounds/TriviaMurderParty2.png",
           "path": "games/TriviaMurderParty2",
           "game_info": {
             "players": {
@@ -1833,7 +1833,7 @@
           "id": "role_models",
           "name": "Role Models",
           "internal_name": "RoleModels",
-          "background": "game_backgrounds/RoleModels.webp",
+          "background": "game_backgrounds/RoleModels.png",
           "path": "games/RoleModels",
           "game_info": {
             "players": {
@@ -1883,7 +1883,7 @@
           "id": "jokeboat",
           "name": "Joke Boat",
           "internal_name": "Jokeboat",
-          "background": "game_backgrounds/JokeBoat.webp",
+          "background": "game_backgrounds/JokeBoat.png",
           "path": "games/JokeBoat",
           "game_info": {
             "players": {
@@ -1934,7 +1934,7 @@
           "id": "dictionarium",
           "name": "Dictionarium",
           "internal_name": "Ridictionary",
-          "background": "game_backgrounds/Dictionarium.webp",
+          "background": "game_backgrounds/Dictionarium.png",
           "path": "games/Ridictionary",
           "game_info": {
             "players": {
@@ -1984,7 +1984,7 @@
           "id": "pushthebutton",
           "name": "Push The Button",
           "internal_name": "PushTheButton",
-          "background": "game_backgrounds/PushTheButton.webp",
+          "background": "game_backgrounds/PushTheButton.png",
           "path": "games/PushTheButton",
           "game_info": {
             "players": {
@@ -2123,7 +2123,7 @@
           "id": "champdup",
           "name": "Champ'd Up",
           "internal_name": "WorldChampions",
-          "background": "game_backgrounds/Champdup.webp",
+          "background": "game_backgrounds/Champdup.png",
           "path": "games/WorldChampions",
           "game_info": {
             "players": {
@@ -2174,7 +2174,7 @@
           "id": "talkingpoints",
           "name": "Мова слайдів",
           "internal_name": "JackboxTalks",
-          "background": "game_backgrounds/TalkingPoints.webp",
+          "background": "game_backgrounds/TalkingPoints.png",
           "path": "games/JackboxTalks",
           "game_info": {
             "players": {
@@ -2226,7 +2226,7 @@
           "id": "thedevilsandthedetails",
           "name": "The Devils And The Details",
           "internal_name": "Everyday",
-          "background": "game_backgrounds/TheDevilsAndTheDetails.webp",
+          "background": "game_backgrounds/TheDevilsAndTheDetails.png",
           "path": "games/Everyday",
           "game_info": {
             "players": {
@@ -2328,7 +2328,7 @@
           "id": "blatherround",
           "name": "Blather Round",
           "internal_name": "BlankyBlank",
-          "background": "game_backgrounds/BlatherRound.webp",
+          "background": "game_backgrounds/BlatherRound.png",
           "path": "games/BlankyBlank",
           "game_info": {
             "players": {
@@ -2501,7 +2501,7 @@
           "id": "the_wheel_of_enormous_proportions",
           "name": "The Wheel Of Enormous Proportions",
           "internal_name": "TheWheel",
-          "background": "game_backgrounds/TheWheelOfEnormousProportions.webp",
+          "background": "game_backgrounds/TheWheelOfEnormousProportions.png",
           "path": "games/TheWheel",
           "game_info": {
             "players": {
@@ -2552,7 +2552,7 @@
           "id": "jobjob",
           "name": "Job Job",
           "internal_name": "JobGame",
-          "background": "game_backgrounds/JobJob.webp",
+          "background": "game_backgrounds/JobJob.png",
           "path": "games/JobGame",
           "game_info": {
             "players": {
@@ -2602,7 +2602,7 @@
           "id": "thepollmine",
           "name": "The Poll Mine",
           "internal_name": "SurveyBomb",
-          "background": "game_backgrounds/ThePollMine.webp",
+          "background": "game_backgrounds/ThePollMine.png",
           "path": "games/SurveyBomb",
           "game_info": {
             "players": {
@@ -2654,7 +2654,7 @@
           "id": "weaponsdrawn",
           "name": "Weapons Drawn",
           "internal_name": "MurderDetectives",
-          "background": "game_backgrounds/WeaponsDrawn.webp",
+          "background": "game_backgrounds/WeaponsDrawn.png",
           "path": "games/MurderDetectives",
           "game_info": {
             "players": {
@@ -2748,7 +2748,7 @@
           "id": "fibbage4",
           "name": "Fibbage 4",
           "internal_name": "Fibbage4",
-          "background": "game_backgrounds/Fibbage4.webp",
+          "background": "game_backgrounds/Fibbage4.png",
           "path": "games/Fibbage4",
           "game_info": {
             "players": {
@@ -2799,7 +2799,7 @@
           "id": "roomerang",
           "name": "Roomerang",
           "internal_name": "MakeFriends",
-          "background": "game_backgrounds/Roomerang.webp",
+          "background": "game_backgrounds/Roomerang.png",
           "path": "games/MakeFriends",
           "game_info": {
             "players": {
@@ -2849,7 +2849,7 @@
           "id": "junktopia",
           "name": "Junktopia",
           "internal_name": "AntiqueGame",
-          "background": "game_backgrounds/Junktopia.webp",
+          "background": "game_backgrounds/Junktopia.png",
           "path": "games/AntiqueGame",
           "game_info": {
             "players": {
@@ -2900,7 +2900,7 @@
           "id": "nonsensory",
           "name": "Nonsensory",
           "internal_name": "RangeGame",
-          "background": "game_backgrounds/Nonsensory.webp",
+          "background": "game_backgrounds/Nonsensory.png",
           "path": "games/RangeGame",
           "game_info": {
             "players": {
@@ -2951,7 +2951,7 @@
           "id": "quixort",
           "name": "Quixort",
           "internal_name": "Lineup",
-          "background": "game_backgrounds/Quixort.webp",
+          "background": "game_backgrounds/Quixort.png",
           "path": "games/Lineup",
           "game_info": {
             "players": {
@@ -3395,7 +3395,7 @@
           "id": "quiplash3_starter",
           "name": "Сміхрясь 3 (Starter)",
           "internal_name": "Quiplash3",
-          "background": "game_backgrounds/Quiplash3Starter.png",
+          "background": "game_backgrounds/Quiplash3.png",
           "path": "games/Quiplash3",
           "game_info": {
             "players": {
@@ -3445,7 +3445,7 @@
           "id": "teeko_starter",
           "name": "Футбол К.О. (Starter)",
           "internal_name": "AwShirt",
-          "background": "game_backgrounds/TeeKOStarter.png",
+          "background": "game_backgrounds/TeeKO.png",
           "path": "games/AwShirt",
           "game_info": {
             "players": {
@@ -3496,7 +3496,7 @@
           "id": "trivia_murder_party_2_starter",
           "name": "Смертельні вечорниці 2 (Starter)",
           "internal_name": "triviadeath2",
-          "background": "game_backgrounds/TriviaMurderParty2Starter.png",
+          "background": "game_backgrounds/TriviaMurderParty2.png",
           "path": "games/triviadeath2",
           "game_info": {
             "players": {
@@ -3584,7 +3584,7 @@
                 "id": "fakinitanl",
                 "internal_name": "FakinIt2",
                 "name": "Fakin' It All Night Long",
-                "background": "game_backgrounds/FakinItANL.webp",
+                "background": "game_backgrounds/FakinItANL.png",
                 "path": "games/FakinIt2",
                 "game_info": {
                     "players": {
@@ -3633,7 +3633,7 @@
                 "id": "dirtydrawful",
                 "internal_name": "Drawful3",
                 "name": "Dirty Drawful",
-                "background": "game_backgrounds/DirtyDrawful.webp",
+                "background": "game_backgrounds/DirtyDrawful.png",
                 "path": "games/Drawful3",
                 "game_info": {
                     "players": {
@@ -3682,7 +3682,7 @@
                 "id": "letmefinish",
                 "internal_name": "CAPTCHA",
                 "name": "Let Me Finish",
-                "background": "game_backgrounds/LetMeFinish.webp",
+                "background": "game_backgrounds/LetMeFinish.png",
                 "path": "games/CAPTCHA",
                 "game_info": {
                     "players": {
@@ -3767,7 +3767,7 @@
             {
                 "id": "surveyscramble",
                 "name": "The Jackbox Survey Scramble",
-                "background": "game_backgrounds/SurveyScramble.webp",
+                "background": "game_backgrounds/SurveyScramble.png",
                 "path": "",
                 "game_info": {
                     "players": {
@@ -3851,7 +3851,7 @@
         {
           "id": "fibbagexl_standalone",
           "name": "Fibbage XL",
-          "background": "game_backgrounds/FibbageXLStandalone.webp",
+          "background": "game_backgrounds/FibbageXL.png",
           "path": "",
           "game_info": {
             "players": {
@@ -3928,7 +3928,7 @@
         {
           "id": "quiplash",
           "name": "Сміхрясь",
-          "background": "game_backgrounds/Quiplash.webp",
+          "background": "game_backgrounds/Quiplash.png",
           "path": "",
           "game_info": {
             "players": {
@@ -4038,7 +4038,7 @@
         {
           "id": "quiplash2interlashional",
           "name": "Сміхрясь 2 МіжСМІХціональний",
-          "background": "game_backgrounds/Quiplash2InterLASHional.jpg",
+          "background": "game_backgrounds/Quiplash2InterLASHional.png",
           "path": "",
           "game_info": {
             "players": {
@@ -4149,7 +4149,7 @@
         {
           "id": "drawful_2",
           "name": "Малювач 2",
-          "background": "game_backgrounds/Drawful2.webp",
+          "background": "game_backgrounds/Drawful2.png",
           "path": "",
           "game_info": {
             "players": {
