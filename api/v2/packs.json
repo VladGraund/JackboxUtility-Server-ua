@@ -3144,7 +3144,7 @@
           "id": "timejinx",
           "name": "Timejinx",
           "internal_name": "TimeTrivia",
-          "background": "game_backgrounds/Timejinx.webp",
+          "background": "game_backgrounds/TimeJinx.webp",
           "path": "games/TimeTrivia",
           "game_info": {
             "players": {
